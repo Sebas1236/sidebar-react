@@ -1,4 +1,4 @@
-sidebar navigation menu made in eact 
+sidebar navigation menu made in react 
 
 ```
 yarn dev
